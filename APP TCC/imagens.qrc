@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>mapa_mercado.png</file>
+    <file>logo_gs1.png</file>
+    <file>mini_capa.png</file>
+    <file>logo_acura.png</file>
+    <file>logo_maua.png</file>
+    <file>logo_eureka.png</file>
+    <file>qr-code-scan.png</file>
+    <file>add-to-cart.png</file>
+    <file>gps-route.png</file>
+    <file>verification-of-delivery-list-clipboard-symbol.png</file>
+  </qresource>
+</RCC>
