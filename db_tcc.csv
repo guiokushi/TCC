@@ -1,0 +1,11 @@
+ID_Produto,ID_RFID,Nome,Marca,Tipo,Data_Validade,Lote,Loc_Corredor,Loc_Seção,Qnt_Estoque,Preco,Descricao_Nutricional,Alergicos
+1,1,"Biscoito de Polvilho","Delícias da Coop",alimentício,09/07/2023,223,1,1,500,3.99,"contém glúten, contém lactose","CONTÉM OVOS E LEITE DE VACA. PODE CONTER DERIVADOS DE TRIGO"
+2,2,"Óleo de Soja",Liza,alimentício,01/02/2024,08P,1,2,200,6.29,"não contém glúten","CONTÉM DERIVADOS DE SOJA"
+3,3,Açúcar,União,alimentício,06/07/2024,060723,1,3,400,5.8,"não contém glúten","NÃO INDICADO PARA DIABÉTICOS"
+4,4,"Sardinhas com Óleo",Coqueiro,alimentício,30/01/2027,018,1,4,300,6.89,"não contém glúten","CONTÉM PEIXES E DERIVADOS DE SOJA"
+5,5,"Esfrebom Multiuso",Bettanin,limpeza,N/A,4544,1,5,200,12.47,N/A,N/A
+6,6,"Sacos para Lixo",Coop,limpeza,N/A,225579,1,6,400,3.99,N/A,N/A
+7,7,"Filtro de Papel",Melitta,utensílio,16/05/2026,160523,2,1,100,5.99,N/A,N/A
+8,8,"Miojo HOT",Nissin,alimentício,02/03/2024,01:44,2,2,300,2.99,"contém glúten","CONTÉM CEVADA, SOJA E DERIVADOS DE TRIGO, PODE CONTER CENTEIO, AVEIA, CRUSTÁCEOS (CAMARÃO E CARANGUEIJO), OVOS PEIXES, LEITE DE VACA, GERGELIM E LÁTEX NATURAL"
+9,9,"Creme Dental",Closeup,higiene,30/07/2025,6041C,2,3,200,7.49,N/A,N/A
+10,10,"Amido de Milho",Maizena,alimentício,17/08/2025,G6G17:19,2,4,100,17.49,"não contém glúten",N/A
